@@ -1,0 +1,22 @@
+{
+  "name": "guojia2017",
+  "version": "1.0.0",
+  "description": "xiangmu1\r [jgr](http://www.baidu.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gj779750909/guojia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gj779750909/guojia/issues"
+  },
+  "homepage": "https://github.com/gj779750909/guojia#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
